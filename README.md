@@ -1,8 +1,7 @@
-# Radar-Specific Features for Radar-Camera 3D Object Detection in Autonomous Driving
+# Radar-Camera for 3D Object Detection in Autonomous Driving Utilizing 4D Radar Data
 Our method detects 3D objects from radar and camera input using radar-specific feature extraction and sparse frustum fusion to overcome diverse environmental conditions. 
 
-This is the official repository that contains the source code for the work *Radar-Camera for 3D Object Detection in Autonomous Driving Utilizing 4D Radar
-Data*.
+This is the official repository that contains the source code for the work *Radar-Camera for 3D Object Detection in Autonomous Driving Utilizing 4D Radar Data*.
 
 [[Project Page](https://ole2412.github.io/radar-camera-fusion/)]
 
