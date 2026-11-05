@@ -1,7 +1,7 @@
-# Radar-Camera for 3D Object Detection in Autonomous Driving Utilizing 4D Radar Data
+# Radar-Camera Fusion for 3D Object Detection in Autonomous Driving Utilizing 4D Radar Data
 Our method detects 3D objects from radar and camera input using radar-specific feature extraction and sparse frustum fusion to overcome diverse environmental conditions. 
 
-This is the official repository that contains the source code for the work *Radar-Camera for 3D Object Detection in Autonomous Driving Utilizing 4D Radar Data*.
+This is the official repository that contains the source code for the work *Radar-Camera Fusion for 3D Object Detection in Autonomous Driving Utilizing 4D Radar Data*.
 
 [[Project Page](https://ole2412.github.io/radar-camera-fusion/)]
 
@@ -13,8 +13,7 @@ If you find this research is useful in your research or applications, please con
 ```bibtex
 @misc{banning_radar-specific_2026,
     author = {Banning, Ole},
-    title  = {Radar-Camera for 3D Object Detection in Autonomous Driving Utilizing 4D Radar
-Data},
+    title  = {Radar-Camera Fusion for 3D Object Detection in Autonomous Driving Utilizing 4D Radar Data},
     school = {Technical University of Munich},
     year   = {2026},
     type   = {Master's thesis},
