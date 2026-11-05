@@ -1,7 +1,8 @@
 # Radar-Specific Features for Radar-Camera 3D Object Detection in Autonomous Driving
 Our method detects 3D objects from radar and camera input using radar-specific feature extraction and sparse frustum fusion to overcome diverse environmental conditions. 
 
-This is the official repository that contains the source code for the work *Radar-Specific Features for Radar-Camera 3D Object Detection in Autonomous Driving*.
+This is the official repository that contains the source code for the work *Radar-Camera for 3D Object Detection in Autonomous Driving Utilizing 4D Radar
+Data*.
 
 [[Project Page](https://ole2412.github.io/radar-camera-fusion/)]
 
@@ -13,7 +14,8 @@ If you find this research is useful in your research or applications, please con
 ```bibtex
 @misc{banning_radar-specific_2026,
     author = {Banning, Ole},
-    title  = {Radar-Specific Features for Radar-Camera 3D Object Detection},
+    title  = {Radar-Camera for 3D Object Detection in Autonomous Driving Utilizing 4D Radar
+Data},
     school = {Technical University of Munich},
     year   = {2026},
     type   = {Master's thesis},
